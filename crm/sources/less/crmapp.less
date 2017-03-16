@@ -1,0 +1,193 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	overflow: hidden;
+}
+.topbar_title{
+	font:bold 14px sans-serif;
+}
+/* contact photo in grid */
+.contact_photo {
+	position: relative;
+	border: 1px solid white;
+	border-radius: 50%;
+	width: 38px;
+	height: 38px;
+	margin: 4px;
+	background-color: white;
+}
+
+div.gridbox_dhx_web.gridbox table.obj.row20px tr.rowselected td {
+	background-color: rgb(225, 244, 255)!important;
+	border-right-color: rgb(225, 244, 255)!important;
+}
+
+/* contact photo in form */
+.form_photo {
+	position: relative;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	border: 1px solid #cecece;
+}
+
+/* events dataview */
+.event_image {
+	text-align: center;
+}
+.event_title {
+	font-size: 19px;
+	font-weight: bold;
+	margin: 10px 0px 5px 0px;
+}
+.event_date {
+	font-size: 14px;
+	margin: 5px 0px;
+}
+.event_place {
+	font-size: 12px;
+	margin: 5px 0px;
+}
+
+.dhx_dataview{
+	.dhxdataview_placeholder{
+		.dhx_dataview_default_item{
+			border:none;
+		}
+		.dhx_dataview_default_item_selected{
+			border:none;
+			background-color: #e1f4ff
+		}	
+	}
+}
+
+/* settings dataview */
+div.settings_image {
+	float: left;
+	width: 120px;
+}
+div.settings_title {
+	position: absolute;
+	top: 14px;
+	left: 120px;
+	font-size: 18px;
+	font-weight: bold;
+}
+div.settings_descr {
+	font-size: 14px;
+	font-weight: normal;
+	margin-top: 3px;
+}
+
+/* cancel button in form */
+.dhxform_obj_dhx_web div.gray_btn div.dhxform_btn {
+	background-color: #c0c0c0;
+}
+
+.spaceNormal() {
+    white-space: normal;
+}
+.dhxform_obj_dhx_web{
+	.dhxform_base{
+		.dhxform_label{
+			.spaceNormal();
+			&:hover{
+				.spaceNormal()
+			}
+			&:active{
+				.spaceNormal()
+			}
+			&:visited{
+				.spaceNormal()
+			}
+		}
+	}
+}
+
+/* form parent div */
+div.form_div {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	overflow: auto;
+}
+div.form_div > div {
+	margin-bottom: 20px !important;
+}
+
+.app_loader {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+	opacity: 1;
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=100);
+	-webkit-transition: opacity 0.3s;
+	-moz-transition: opacity 0.3s;
+	-ms-transition: opacity 0.3s;
+	-o-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+	z-index: 1999;
+
+	&.app_loader_hidden {
+		opacity: 0;
+		filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0);
+	}
+}
+
+.app_loader_logo {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 145px;
+	height: 150px;
+	background: url(../../codebase/imgs/loader/app_logo.png) center top no-repeat;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+.app_loader_icon {
+	position: absolute;
+	width: 100%;
+	height: 32px;
+	bottom: 0px;
+	background: url(../../codebase/imgs/loader/loader.gif) center center no-repeat;
+}
+
+@media screen and (max-width: 1280px) {
+
+	.dhx_cell_toolbar_def {
+		border-width: 0px !important;
+	}
+	.event_image img{
+		width: 100%;
+		max-width: 100%;
+	}
+	.event_title{
+		font-size: 14px;
+		margin: 6px 0px 3px 0px;
+	}
+	.event_date{
+		font-size: 13px;
+		margin: 3px 0px;
+	}
+	.event_place{
+		font-size: 12px;
+		margin: 3px 0px;
+	}
+	.settings_image img{
+		width: 80px;
+		max-width: 80px;
+	}
+	.settings_title{
+		left: 100px;
+		top: 9px;
+	}
+}

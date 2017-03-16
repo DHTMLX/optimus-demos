@@ -1,0 +1,6 @@
+<toolbar>
+	<item img="add_connection.png" id="add_connection" type="button" text="Add connection"/>
+	<item img="delete_connection.png" id="delete_connection" type="button" text="Delete connection"/>
+	<item id="12" type="separator"/>
+	<item img="sql_query.png"  id="sql_query" type="button" text="SQL query"/>
+</toolbar>

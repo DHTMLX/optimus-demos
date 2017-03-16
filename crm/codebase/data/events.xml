@@ -1,0 +1,50 @@
+<data>
+	<item id="1">
+		<image>world-cta-conference.png</image>
+		<title>World CTA Conference</title>
+		<date>September 17, 2015</date>
+		<place>Ottawa, Canada</place>
+		<lat>45.420857</lat>
+		<lng>-75.696353</lng>
+	</item>
+	<item id="2">
+		<image>europe-market-2015.png</image>
+		<title>Europe Market 2015</title>
+		<date>September 24, 2015</date>
+		<place>London, UK</place>
+		<lat>51.508346</lat>
+		<lng>-0.128378</lng>
+	</item>
+	<item id="3">
+		<image>europe-devnet-conference.png</image>
+		<title>Europe DEVnet Conference</title>
+		<date>October 1-3, 2015</date>
+		<place>Paris, France</place>
+		<lat>48.856770</lat>
+		<lng>2.352707</lng>
+	</item>
+	<item id="4">
+		<image>global-tvs-2015.png</image>
+		<title>Global TVS 2015</title>
+		<date>October 13-15, 2015</date>
+		<place>Portland, USA</place>
+		<lat>45.522355</lat>
+		<lng>-122.675365</lng>
+	</item>
+	<item id="5">
+		<image>asia-trade-conf-2015.png</image>
+		<title>Asia Trade Conf 2015</title>
+		<date>October 17, 2015</date>
+		<place>Tokio, Japan</place>
+		<lat>35.692585</lat>
+		<lng>139.764633</lng>
+	</item>
+	<item id="6">
+		<image>aps-2015.png</image>
+		<title>APS 2015</title>
+		<date>October 26, 2015</date>
+		<place>Milan, Italy</place>
+		<lat>45.465262</lat>
+		<lng>9.184942</lng>
+	</item>
+</data>

@@ -1,0 +1,35 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": "eslint:recommended",
+    "globals":{ 
+        "dhx":false,
+        "dhtmlXWindows":false,
+        "dhtmlx":false,
+        "dhtmlxEvent":false,
+        "require" : false,
+        "dhtmlXLayoutObject" : false,
+        "dhtmlXPopup": false,
+        "dhtmlXCalendarObject": false
+    },
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "rules": {
+        "indent": [
+            "error",
+            "tab",
+            { "SwitchCase":1 }
+        ],
+        "quotes": [
+            "error",
+            "double"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ]
+    }
+}

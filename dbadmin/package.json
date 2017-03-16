@@ -1,0 +1,62 @@
+{
+  "name": "dbadmin-demo",
+  "version": "1.0.0",
+  "description": "DHTMLX Demo app - DB Admin",
+  "deployPath": "dhtmlx.com:/dummy/",
+  "localURL": "http://127.0.0.1/dhtmlx/optimus-demos/dbadmin/",
+  "main": "dbadmin.js",
+  "scripts": {
+    "lint": "gulp lint",
+    "codebase": "webpack",
+    "watch": "webpack --watch",
+    "server": "webpack-dev-server",
+    "build": "gulp build",
+    "deploy": "gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHTMLX/optimus-demos.git"
+  },
+  "keywords": [
+    "dhtmlx",
+    "optimus",
+    "ui",
+    "demo"
+  ],
+  "author": "XB Software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DHTMLX/optimus-demos/issues"
+  },
+  "homepage": "https://github.com/DHTMLX/optimus-demos#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.0",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-es2015-loose": "^8.0.0",
+    "css-loader": "^0.27.3",
+    "dhx-optimus": "^0.2.0",
+    "eslint": "^3.17.1",
+    "event-stream": "^3.3.4",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.10.1",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-eslint": "^3.0.1",
+    "gulp-filter": "^5.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "handlebars": "^4.0.6",
+    "handlebars-loader": "^1.4.0",
+    "less": "^2.7.2",
+    "less-loader": "^3.0.0",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.0.0",
+    "webpack-livereload-plugin": "^0.10.0",
+    "webpack-stream": "^3.2.0"
+  }
+}

@@ -1,0 +1,42 @@
+<data>
+	<item id="contacts">
+		<image>contacts.png</image>
+		<title>Contacts</title>
+		<descr>Manage contacts; set custom settings</descr>
+	</item>
+	<item id="events">
+		<image>events.png</image>
+		<title>Events</title>
+		<descr>Manage events; set custom settings</descr>
+	</item>
+	<item id="projects">
+		<image>projects.png</image>
+		<title>Projects</title>
+		<descr>Manage projects; set custom settings</descr>
+	</item>
+	<item id="configuration">
+		<image>configuration.png</image>
+		<title>Configuration</title>
+		<descr>General settings of your account</descr>
+	</item>
+	<item id="exportprint">
+		<image>export.png</image>
+		<title>Export to PDF / Print</title>
+		<descr>Print contacts, projects, events, etc.</descr>
+	</item>
+	<item id="notifications">
+		<image>notifications.png</image>
+		<title>Notifications</title>
+		<descr>Set notifications to email, mobile phone, etc.</descr>
+	</item>
+	<item id="statistics">
+		<image>statistics.png</image>
+		<title>Statistics</title>
+		<descr>Check your progress and other stats</descr>
+	</item>
+	<item id="removeworkspace">
+		<image>remove-your-workspace.png</image>
+		<title>Remove your workspace</title>
+		<descr>Think twice</descr>
+	</item>
+</data>

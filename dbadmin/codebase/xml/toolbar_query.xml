@@ -1,0 +1,4 @@
+<toolbar>
+	<item id="run_query" img="sql_query.png" type="button" text="Run query"/>
+	<item id="close" img="close_table_view.png" type="button" text="Close"/>
+</toolbar>

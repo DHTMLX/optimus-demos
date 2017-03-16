@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+	<head>
+		<column width="65" id="photo"   type="ro" align="center" sort="na"><![CDATA[<span style='padding-left:60px;'>Name</span>]]></column>
+		<column width="150" id="name"    type="ro" align="left"   sort="na">#cspan</column>
+		<column width="130" id="dob"     type="ro" align="left"   sort="na">Date of Birth</column>
+		<column width="130" id="pos"     type="ro" align="left"   sort="na">Position</column>
+		<column width="170" id="email"   type="ro" align="left"   sort="na">E-mail Address</column>
+		<column width="150" id="phone"   type="ro" align="left"   sort="na">Phone</column>
+		<column width="150" id="company" type="ro" align="left"   sort="na">Company</column>
+		<column width="*"   id="info"    type="ro" align="left"   sort="na">Additional</column>
+	</head>
+	<row id="1">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/margaret-black.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Margaret Black</cell>
+		<cell>9/1/1985</cell>
+		<cell>CEO</cell>
+		<cell>mblack_ceo@mail.com</cell>
+		<cell>1-805-287-4750</cell>
+		<cell>M Black Ltd</cell>
+	</row>
+	<row id="2">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/john-woken.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>John Woken</cell>
+		<cell>3/24/1987</cell>
+		<cell>Business analyst</cell>
+		<cell>john.woken@mail.com</cell>
+		<cell>1-867-777-9834</cell>
+		<cell>M-Black Ltd</cell>
+	</row>
+	<row id="3">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/jake-peterson.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Jake Peterson</cell>
+		<cell>11/27/1982</cell>
+		<cell>Accountant</cell>
+		<cell>jake.peterson@mail.com</cell>
+		<cell>1-845-257-9751</cell>
+		<cell>Jackson and partners Inc</cell>
+	</row>
+	<row id="4">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/bill-jackson.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Bill Jackson</cell>
+		<cell>5/3/1980</cell>
+		<cell>Web developer</cell>
+		<cell>Bill.Jackson@mail.com</cell>
+		<cell>1-874-548-9751</cell>
+		<cell>BFG Consulting Inc</cell>
+	</row>
+	<row id="5">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/jennifer-miles.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Jennifer Miles</cell>
+		<cell>4/17/1985</cell>
+		<cell>Project manager</cell>
+		<cell>Jennifer.Miles@mail.com</cell>
+		<cell>1-852-895-9752</cell>
+		<cell>F&amp;M Ltd</cell>
+	</row>
+	<row id="6">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/cortny-barrens.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Cortny Barrens</cell>
+		<cell>6/20/1979</cell>
+		<cell>Sales manager</cell>
+		<cell>Cortny.Barrens@mail.com</cell>
+		<cell>1-842-458-1452</cell>
+		<cell>F&amp;M Ltd</cell>
+	</row>
+	<row id="7">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/edward-eden.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Edward Eden</cell>
+		<cell>1/14/1983</cell>
+		<cell>Business analyst</cell>
+		<cell>Edward.Eden@mail.com</cell>
+		<cell>1-863-452-4750</cell>
+		<cell>BFG Consulting Inc</cell>
+	</row>
+	<row id="8">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/andrew-scott.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Andrew Scott</cell>
+		<cell>2/15/1980</cell>
+		<cell>HR manager</cell>
+		<cell>Andrew.Scott@mail.com</cell>
+		<cell>1-874-452-4873</cell>
+		<cell>Jackson and partners Inc</cell>
+	</row>
+	<row id="9">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/steve-anderson.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Steve Anderson</cell>
+		<cell>4/17/1978</cell>
+		<cell>Business analyst</cell>
+		<cell>Steve.Anderson@mail.com</cell>
+		<cell>1-863-548-4874</cell>
+		<cell>Bank of LA</cell>
+	</row>
+	<row id="10">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/jane-wilson.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Jane Wilson</cell>
+		<cell>6/25/1980</cell>
+		<cell>Product manager</cell>
+		<cell>Jane.Wilson@mail.com</cell>
+		<cell>1-863-452-9834</cell>
+		<cell>HDF Insurance</cell>
+	</row>
+	<row id="11">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/alan-robbinson.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Alan Robbinson</cell>
+		<cell>8/16/1970</cell>
+		<cell>Web developer</cell>
+		<cell>Alan.Robbinson@mail.com</cell>
+		<cell>1-863-452-9752</cell>
+		<cell>Meriton Group</cell>
+	</row>
+	<row id="12">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/william-parson.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>William Parson</cell>
+		<cell>10/2/1969</cell>
+		<cell>Cheif engineer</cell>
+		<cell>William.Parson@mail.com</cell>
+		<cell>1-874-452-4877</cell>
+		<cell>ANG Learning</cell>
+	</row>
+	<row id="13">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/charlotte-wolks.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Charlotte Wolks</cell>
+		<cell>12/4/1989</cell>
+		<cell>Marketing specialist</cell>
+		<cell>Charlotte.Wolks@mail.com</cell>
+		<cell>1-863-452-4750</cell>
+		<cell>HDF Insurance</cell>
+	</row>
+	<row id="14">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/pamela-worner.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Pamela Worner</cell>
+		<cell>11/17/1976</cell>
+		<cell>Business analyst</cell>
+		<cell>Pamela.Worner@mail.com</cell>
+		<cell>1-863-548-4879</cell>
+		<cell>ANG Learning</cell>
+	</row>
+	<row id="15">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/ralf-ross.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Ralf Ross</cell>
+		<cell>9/29/1973</cell>
+		<cell>Sales manager</cell>
+		<cell>Ralf.Ross@mail.com</cell>
+		<cell>1-863-452-9751</cell>
+		<cell>Bank of LA</cell>
+	</row>
+	<row id="16">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/dan-witley.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Dan Witley</cell>
+		<cell>1/5/1978</cell>
+		<cell>Web developer</cell>
+		<cell>Dan.Witley@mail.com</cell>
+		<cell>1-874-452-9834</cell>
+		<cell>Bank of LA</cell>
+	</row>
+	<row id="17">
+		<cell><![CDATA[<img src="codebase/imgs/contacts/small/anna-harrison.jpg" border="0" class="contact_photo">]]></cell>
+		<cell>Anna Harrison</cell>
+		<cell>5/8/1984</cell>
+		<cell>QA engineer</cell>
+		<cell>Anna.Harrison@mail.com</cell>
+		<cell>1-863-548-9751</cell>
+		<cell>Meriton Group</cell>
+	</row>
+</rows>

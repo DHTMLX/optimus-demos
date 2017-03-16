@@ -1,0 +1,5 @@
+[	
+    {"id" : "1", "icon" : "coffee.png",  "name" : "Coffee shop",  "user" : "Sandy Braxton", "descr" : "Coffee shop networks"},
+    {"id" : "2", "icon" : "portal.png",  "name" : "Woman portal", "user" : "Oliver Show",   "descr" : "Portal about health and fashion"},
+    {"id" : "3", "icon" : "chat.png",    "name" : "Dating chat",  "user" : "John Terry",    "descr" : "Chat for meeting and dating people"}
+]

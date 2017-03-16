@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Geo App</title>
+
+	<!-- DHTMLX Library -->
+	<link rel="stylesheet" type="text/css" href="//cdn.dhtmlx.com/edge/fonts/font_roboto/roboto.css"/>
+	<link href="//cdn.dhtmlx.com/site/dhtmlx.css" rel="stylesheet"></link>
+	<script src="//cdn.dhtmlx.com/site/dhtmlx.js"></script>
+
+	<!-- App -->
+	<link href="codebase/geoapp.css" rel="stylesheet"></link>
+	<script type="text/javascript" src="codebase/geoapp.js"></script>
+
+	<!-- Google maps -->
+	<script src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyCof0NywIL-N6Em0UsoZEdVQjZOrl5bQBw" type="text/javascript" ></script>
+
+</head>
+<body>
+	<style type="text/css">
+		html,body{ height:100%; width:100%; padding:0; margin:0; }
+	</style>
+	<div id="idd"></div>
+	<script type="text/javascript">
+		var app = new GeoApp({});
+		app.render();
+	</script>
+</body>
+</html>

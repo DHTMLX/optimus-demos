@@ -1,0 +1,11 @@
+node_modules
+codebase/*.js
+codebase/*.css
+
+
+*.zip
+dist/
+.Ds_store
+*.tgz
+*.log
+.vscode

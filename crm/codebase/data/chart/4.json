@@ -1,0 +1,14 @@
+[
+	{ sales: 90, month: "Jan" },
+	{ sales: 10, month: "Feb" },
+	{ sales: 90, month: "Mar" },
+	{ sales: 20, month: "Apr" },
+	{ sales: 90, month: "May" },
+	{ sales: 30, month: "Jun" },
+	{ sales: 50, month: "Jul" },
+	{ sales: 10, month: "Aug" },
+	{ sales: 90, month: "Sep" },
+	{ sales: 30, month: "Oct" },
+	{ sales: 70, month: "Nov" },
+	{ sales: 90, month: "Dec" }
+]

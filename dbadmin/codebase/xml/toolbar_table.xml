@@ -1,0 +1,6 @@
+<toolbar>
+	<item id="refresh_table" img="refresh_table.png" type="button" text="Refresh"/>
+	<item id="show_structure" img="structure_table.png" type="button" text="Structure"/>
+	<item id="12" type="separator"/>
+	<item id="close" img="close_table_view.png" type="button" text="Close"/>
+</toolbar>
