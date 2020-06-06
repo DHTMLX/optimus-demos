@@ -1387,9 +1387,9 @@ detect-indent@^4.0.0:
   dependencies:
     repeating "^2.0.0"
 
-dhx-optimus@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/dhx-optimus/-/dhx-optimus-0.2.0.tgz#6e25f4151ff2496f67b80cf60496779ddbeda2f3"
+dhx-optimus@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/dhx-optimus/-/dhx-optimus-0.3.0.tgz#874a0db379653734e11d7fa847b0a1bccb26d371"
 
 diffie-hellman@^5.0.0:
   version "5.0.2"
@@ -5342,8 +5342,8 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.1.tgz#76899499c184b6ef754377c2dbb0cd6cb55d29e7"
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
 
 whet.extend@~0.9.9:
   version "0.9.9"
